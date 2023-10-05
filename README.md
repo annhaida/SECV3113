@@ -17,6 +17,13 @@ This course provides a basic fundamental of big data architecture and management
 2. Design big data platform demonstrating the implementation of big data applications.
 3. Discuss current technology that support for sustainability of the big data platform ecosystem.
 
+| Course Learning Outcomes (CLO) | Description                                                               |
+|--------------------------------|---------------------------------------------------------------------------|
+| CLO 1                          | Describe and explain the concepts and techniques of 3D geometric modeling |
+| CLO 2                          | Investigate, apply and present the concepts and techniques of 3D geometric modeling in programming |
+| CLO 3                          | Analyze and manipulate the attributes of curve and surface functions      |
+
+
 ## 🔥 Important things
 1. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
 2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
